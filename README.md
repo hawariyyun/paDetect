@@ -1,4 +1,4 @@
-# paDetect
+# paDetect: Aplikasi Skrining dan Deteksi Panik Peserta Vaksin untuk Meningkatkan Efisiensi Antrian
 ## Backgrounder
 Pemerintah Kabupaten Wonogiri mencatat bahwa per tanggal 6 November 2021 hanya 60% lansia yang lolos uji skrining di lokasi vaksin. Kasus yang serupa juga terjadi di daerah lain dan pada ibu hamil. Proses skrining vaksin yang hanya dapat dilakukan di lokasi penyuntikan membuat efektivitas vaksinasi menurun. Pada proyek ini, kami membuat website untuk skrining calon peserta vaksin untuk meneliti pertanyaan berikut :
 
@@ -16,7 +16,7 @@ Halaman website memuat pertanyaan skrining vaksin dan mengambil gambar calon pen
 
 ### Library or external repository/API used:
 
-### Dataset Link:  
+### Dataset Link: https://www.kaggle.com/msambare/fer2013
 
 ### Academic Paper Link
 
