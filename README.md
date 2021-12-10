@@ -14,7 +14,7 @@ Halaman website memuat pertanyaan skrining vaksin dan mengambil gambar calon pen
 ## Slide Presentation Link
 
 ## Other Resources Link:
-[1] [Banyak yang gagal Skrining, Vaksinasi Covid-19 Lansia di Wonogiri Baru 50 Persen](https://regional.kompas.com/read/2021/10/07/093102078/banyak-yang-gagal-skrining-vaksinasi-covid-19-lansia-di-wonogiri-baru-50?page=all)
+
 
 ### Library or external repository/API used:
 
@@ -24,5 +24,6 @@ Halaman website memuat pertanyaan skrining vaksin dan mengambil gambar calon pen
 [1] [Optimalisasi Alur Pelayanan Vaksinasi Covid-19 di RSU X Kota Bandung Tahun 2021](https://jurnal.healthsains.co.id/index.php/jhs/article/view/214)
 
 ### References Link:
+[1] [Banyak yang gagal Skrining, Vaksinasi Covid-19 Lansia di Wonogiri Baru 50 Persen](https://regional.kompas.com/read/2021/10/07/093102078/banyak-yang-gagal-skrining-vaksinasi-covid-19-lansia-di-wonogiri-baru-50?page=all)
 
 ## Demo Video Link
